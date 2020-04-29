@@ -1,4 +1,36 @@
+This is a simple web application that loads in Reddit posts for a set category and then enables the user to search by entering in any valid category name.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Libraries Used:
+[Axios](https://github.com/axios/axios).
+Promise based HTTP client for the browser and node.js
+
+[Classnames](https://github.com/JedWatson/classnames#readme).
+A simple JavaScript utility for conditionally joining classNames together.
+
+[Lodash](https://lodash.com/)
+A modern JavaScript utility library delivering modularity, performance & extras.
+
+[React Redux](https://github.com/reduxjs/react-redux)
+Official React bindings for Redux
+
+[ReactDnD](https://github.com/react-dnd/react-dnd#readme).
+Drag and Drop for React.
+
+[React Modal](https://github.com/reactjs/react-modal)
+Accessible modal dialog component for React.JS
+
+[Redux-Saga](https://redux-saga.js.org/)
+Library that aims to make application side effects easier to manage, more efficient to execute, easy to test, and better at handling failures.
+
+[React-loading](https://github.com/fakiolinho/react-loading)
+Easy to use loading animations for React projects
+
+[Node Sass](https://github.com/sass/node-sass)
+Node.js bindings to libsass
+
+[Bootstrap Icons](https://icons.getbootstrap.com/)
+Open svg icons of bootstrap
 
 ## Available Scripts
 
@@ -27,42 +59,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

@@ -1,0 +1,28 @@
+
+.post-card-container {
+    .post-tittle {
+      font-size: 0.9em;
+      text-align: center;
+    }
+    .post-card-text-container  {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      > * {
+        margin: 10px 0;
+      }
+    }
+    .post-description-bottom-bar{
+  
+      display: flex;
+      > * {
+        font-size: 0.7em;
+        margin: 10px 5px 0px 5px;
+      }
+    }
+  
+  }
+  
+  .react-draggable-dragging {
+    opacity: 0.5;
+  }

@@ -1,0 +1,21 @@
+
+.action-card-container {
+    box-sizing: content-box;
+    width: 150px;
+
+    img {
+      width: 90%;
+      height: 90%;
+    }
+    
+    span {
+      color: #0FB1F8;
+      font-size: 1.2em;
+      font-weight: 500;
+    }
+    z-index: 1;
+  }
+  .action-card-hover {
+    box-shadow: inset -1px -1px 9px 6px #92a2df;
+  }
+  

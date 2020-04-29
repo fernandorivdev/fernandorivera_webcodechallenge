@@ -1,0 +1,48 @@
+$icon-size: 30px;
+$img-size: 90px;
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.float-left {
+  float: left;
+}
+
+.icon-info {
+    display: flex;
+    align-items: center;
+    img {
+      width: $icon-size;
+      height: $icon-size;
+        }
+    span {
+      margin: 0 5px;
+         }
+  }
+  
+  body {
+    margin: 0;
+    background: #FFF;
+  }
+  
+  .hide {
+    opacity: 0 !important;
+  }
+  
+@media only screen and (min-width: 1000px) {
+  .content-container{
+    width: 50%;
+    cursor: pointer;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .content-container{
+    width: 100%;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+}

@@ -1,0 +1,10 @@
+
+.down-votes {
+    display: flex;
+    align-items: center;
+    
+    img {
+      width: $icon-size;
+      height: $icon-size;
+    }
+  }

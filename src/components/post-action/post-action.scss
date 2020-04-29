@@ -1,0 +1,39 @@
+
+.modal-blank {
+    outline: none;
+  }
+  
+  .modal-overlay {
+    background: gray;
+    position: absolute;
+  }
+  
+  .post-action-container {
+    margin-top: 200px;
+    align-items: flex-start;
+    .post-action-instructions{
+      width: 110px;
+      color: #ffffff;
+      margin: 0 40px;
+      font-weight: 600;
+    }
+    .post-action-cards {
+      display: flex;
+      flex-direction: column;
+      > * {
+        margin-bottom: 20px;
+      }
+    }
+  }
+  
+  .post-card-container {
+    background: #ffffff;
+    outline: none;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+    padding: 15px;
+    cursor: pointer;
+  }
