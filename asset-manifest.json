@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fernandorivera_webcodechallenge/static/css/main.adcd094e.chunk.css",
+    "main.js": "/fernandorivera_webcodechallenge/static/js/main.ace0af57.chunk.js",
+    "main.js.map": "/fernandorivera_webcodechallenge/static/js/main.ace0af57.chunk.js.map",
+    "runtime-main.js": "/fernandorivera_webcodechallenge/static/js/runtime-main.8a823f60.js",
+    "runtime-main.js.map": "/fernandorivera_webcodechallenge/static/js/runtime-main.8a823f60.js.map",
+    "static/js/2.bcd6397a.chunk.js": "/fernandorivera_webcodechallenge/static/js/2.bcd6397a.chunk.js",
+    "static/js/2.bcd6397a.chunk.js.map": "/fernandorivera_webcodechallenge/static/js/2.bcd6397a.chunk.js.map",
+    "index.html": "/fernandorivera_webcodechallenge/index.html",
+    "precache-manifest.819252464cd0bed7aa588286ffbe19de.js": "/fernandorivera_webcodechallenge/precache-manifest.819252464cd0bed7aa588286ffbe19de.js",
+    "service-worker.js": "/fernandorivera_webcodechallenge/service-worker.js",
+    "static/css/main.adcd094e.chunk.css.map": "/fernandorivera_webcodechallenge/static/css/main.adcd094e.chunk.css.map",
+    "static/js/2.bcd6397a.chunk.js.LICENSE.txt": "/fernandorivera_webcodechallenge/static/js/2.bcd6397a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a823f60.js",
+    "static/js/2.bcd6397a.chunk.js",
+    "static/css/main.adcd094e.chunk.css",
+    "static/js/main.ace0af57.chunk.js"
+  ]
+}
