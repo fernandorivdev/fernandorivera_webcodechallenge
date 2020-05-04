@@ -3,7 +3,7 @@ import { POST_ACTION } from "./constants";
 
 function* applyAction(action) {
   const { actionName, post } = action.payload;
-  const link = `http://www.reddit.com${post.permalink}`;
+  const link = `https://www.reddit.com${post.permalink}`;
   switch (actionName) {
     case 'link':
       yield call(window.open, link , '_blank');
